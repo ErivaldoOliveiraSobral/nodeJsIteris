@@ -1,0 +1,15 @@
+{
+  "name": "dia1_ex1",
+  "version": "1.0.0",
+  "description": "Treinamento de NodeJs da Iteris",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u001b[2~\u0016https://github.com/ErivaldoOliveiraSobral/nodejsIteris"
+  },
+  "author": "Erivaldo",
+  "license": "ISC"
+}
